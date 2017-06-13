@@ -349,11 +349,11 @@
  #";; about the language level of this file in a form that our tools ca"
  #"n easily process."
 ) 0 0 4 29 1 #"\n"
-0 0 4 3 179
+0 0 4 3 183
 (
  #"#reader(lib \"htdp-beginner-reader.ss\" \"lang\")((modname rocket_V5"
- #") (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t const"
- #"ructor repeating-decimal #f #t none #f () #f)))"
+ #"_UFO) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t c"
+ #"onstructor repeating-decimal #f #t none #f () #f)))"
 ) 0 0 4 29 1 #"\n"
 0 0 17 3 26 #"; external library imports"
 0 0 24 29 1 #"\n"
@@ -555,7 +555,7 @@
 0 0 24 3 1 #"("
 0 0 15 3 6 #"define"
 0 0 24 3 1 #" "
-0 0 14 3 6 #"ROCKET"
+0 0 14 3 3 #"UFo"
 0 0 24 3 2 #" ("
 0 0 14 3 7 #"overlay"
 0 0 24 3 2 #" ("
