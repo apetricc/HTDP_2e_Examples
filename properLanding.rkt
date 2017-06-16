@@ -349,11 +349,11 @@
  #";; about the language level of this file in a form that our tools ca"
  #"n easily process."
 ) 0 0 4 29 1 #"\n"
-0 0 4 3 186
+0 0 4 3 183
 (
- #"#reader(lib \"htdp-beginner-reader.ss\" \"lang\")((modname |#properL"
- #"anding|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#"
- #"t constructor repeating-decimal #f #t none #f () #f)))"
+ #"#reader(lib \"htdp-beginner-reader.ss\" \"lang\")((modname properLan"
+ #"ding) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t c"
+ #"onstructor repeating-decimal #f #t none #f () #f)))"
 ) 0 0 4 29 1 #"\n"
 0 0 24 3 1 #"("
 0 0 15 3 6 #"define"
